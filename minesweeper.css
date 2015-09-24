@@ -1,0 +1,13 @@
+.cell {
+    border: 1px solid black;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    cursor: pointer;
+}
+.cell.black {
+    background: black;
+}
+.row {
+    height: 20px;
+}
